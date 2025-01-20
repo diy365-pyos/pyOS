@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["pyos/__init__.py", "github:org/diy365-pyos/pyOS/src/__init__.py"],
+    ["pyos/config.py", "github:org/diy365-pyos/pyOS/src/config.py"]
+  ],
+  "deps": [
+  ],
+  "version": "0.2"
+}
